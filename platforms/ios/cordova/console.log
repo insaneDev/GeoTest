@@ -1,0 +1,24 @@
+2014-10-16 22:38:17.307 GeoTest[1128:70b] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-16 22:38:17.309 GeoTest[1128:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-16 22:38:17.562 GeoTest[1128:70b] Unlimited access to network resources
+2014-10-16 22:38:17.613 GeoTest[1128:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-16 22:38:18.964 GeoTest[1128:70b] Resetting plugins due to page load.
+2014-10-16 22:38:19.315 GeoTest[1128:70b] Finished load of: file:///Users/shazron/Library/Developer/CoreSimulator/Devices/BAEBB3D6-840B-46FF-8780-A8EB5074D328/data/Applications/1F033AA7-3D5E-4AB8-AC14-441F699E17B9/GeoTest.app/www/index.html
+2014-10-16 22:39:14.091 GeoTest[1262:70b] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-16 22:39:14.094 GeoTest[1262:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-16 22:39:14.101 GeoTest[1262:70b] Unlimited access to network resources
+2014-10-16 22:39:14.104 GeoTest[1262:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-16 22:39:14.213 GeoTest[1262:70b] Resetting plugins due to page load.
+2014-10-16 22:39:14.264 GeoTest[1262:70b] Finished load of: file:///Users/shazron/Library/Developer/CoreSimulator/Devices/BAEBB3D6-840B-46FF-8780-A8EB5074D328/data/Applications/1F033AA7-3D5E-4AB8-AC14-441F699E17B9/GeoTest.app/www/index.html
